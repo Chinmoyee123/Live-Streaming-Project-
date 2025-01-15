@@ -51,7 +51,7 @@ To get started , follow these steps:
    First, clone the repository from GitHub to your local machine:
 
    ```bash
-   https://github.com/sujalsharma2904/Live-_Streaming-Platform.git
+   https://github.com/Chinmoyee123/Live-_Streaming-Platform.git
    ```
 
 2. **Install Dependencies**
